@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Education LMS Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress2
+Data file = C:\xampp\htdocs\wordpress2/wp-content/themes/education-lms/assets/dummy-data/demo-content.xml
+Widget file = C:\xampp\htdocs\wordpress2/wp-content/themes/education-lms/assets/dummy-data/widgets.wie
+Customizer file = C:\xampp\htdocs\wordpress2/wp-content/themes/education-lms/assets/dummy-data/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Theme: Popular Posts - Recent Posts - Widget already exists
+Search - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Tag Cloud - No Title - Widget already exists
+Navigation Menu - Links - Widget already exists
+Text - Text Widget - Widget already exists
+
+Topbar Left : 
+
+Custom HTML - No Title - Widget already exists
+
+Footer 1 : 
+
+Text - No Title - Widget already exists
+
+Footer 2 : 
+
+Custom HTML - Contact Us - Widget already exists
+
+Footer 3 : 
+
+Navigation Menu - Links - Widget already exists
+
+Footer 4 : 
+
+Custom HTML - Open Hours - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

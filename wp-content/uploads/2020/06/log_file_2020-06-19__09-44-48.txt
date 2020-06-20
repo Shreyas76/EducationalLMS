@@ -1,0 +1,177 @@
+
+---Downloaded files---
+The import files for: Education LMS Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress2
+Data file = C:\xampp\htdocs\wordpress2/wp-content/themes/education-lms/assets/dummy-data/demo-content.xml
+Widget file = C:\xampp\htdocs\wordpress2/wp-content/themes/education-lms/assets/dummy-data/widgets.wie
+Customizer file = C:\xampp\htdocs\wordpress2/wp-content/themes/education-lms/assets/dummy-data/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "education-lms-pro-v0.0.7.zip" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "education-lms-pro-v0.0.7.zip" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "education-lms-pro-v0.0.7.zip" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "education-lms-pro-v0.0.7.zip" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "education-lms-pro-v0.0.7.zip" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "education-lms-pro-v0.0.7.zip" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "education-lms-pro-v0.0.7.zip" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "education-lms-pro-v0.0.7.zip" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "education-lms-pro-v0.0.7.zip" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "education-lms-pro-v0.0.7.zip" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "education-lms-pro-v0.0.7.zip" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "education-lms-pro-v0.0.7.zip" (Media)
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "education-lms-pro-v0.0.7.zip" (Media)
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "education-lms-pro-v0.0.7.zip" (Media)
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "education-lms-pro-v0.0.7.zip" (Media)
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+
+
+---Importing widgets---
+Sidebar : 
+
+Theme: Popular Posts - Recent Posts - Imported
+Search - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Tag Cloud - No Title - Imported
+Navigation Menu - Links - Imported
+Text - Text Widget - Imported
+
+Topbar Left : 
+
+Custom HTML - No Title - Imported
+
+Footer 1 : 
+
+Text - No Title - Imported
+
+Footer 2 : 
+
+Custom HTML - Contact Us - Imported
+
+Footer 3 : 
+
+Navigation Menu - Links - Imported
+
+Footer 4 : 
+
+Custom HTML - Open Hours - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
